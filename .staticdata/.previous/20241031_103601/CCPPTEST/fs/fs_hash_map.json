@@ -1,0 +1,93 @@
+{
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/_MINGW_SECAPI.H": [
+        "_10e9830194e2282413169be49a0201a8",
+        true,
+        false,
+        "49c0c920",
+        "C:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/SDKS/_MINGW_DDK.H": [
+        "_3b8324572a04fe21cd70c42a6c5cacc7",
+        true,
+        false,
+        "88ae89cc",
+        "C:/MinGW/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/STDIO.H": [
+        "_e67469e207c19303902bcb0f4b762724",
+        true,
+        false,
+        "b3f56885",
+        "C:/MinGW/x86_64-w64-mingw32/include/stdio.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/_MINGW_OFF_T.H": [
+        "_d999b49853433dac4c8cf23374cd7f60",
+        true,
+        false,
+        "1b259e44",
+        "C:/MinGW/x86_64-w64-mingw32/include/_mingw_off_t.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/SEC_API/STDIO_S.H": [
+        "_cc7501154511dae35f69742f3e6c43b0",
+        true,
+        false,
+        "26ded4f",
+        "C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/CORECRT.H": [
+        "_95dd0362a8a8c0140886c87718504e24",
+        true,
+        false,
+        "a2aae604",
+        "C:/MinGW/x86_64-w64-mingw32/include/corecrt.h"
+    ],
+    "C:/USERS/SURE/DESKTOP/ABOUT_STATIC/FORTESTSTATIC4.9/TEST-PROJECTS/MAKEFILE/EXAMPLE.C": [
+        "e72f8ea92b31c35afb343a84c7236c9f",
+        false,
+        false,
+        "1086f1ae",
+        "C:/Users/sure/Desktop/About_STATIC/forTestSTATIC4.9/test-projects/makefile/example.c"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/CORECRT_STDIO_CONFIG.H": [
+        "_ed29521792e9e6de4f53120c0ca04408",
+        true,
+        false,
+        "5f43fe83",
+        "C:/MinGW/x86_64-w64-mingw32/include/corecrt_stdio_config.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/_MINGW_MAC.H": [
+        "_6e314c79d1f4b94b47d5907e3df7c995",
+        true,
+        false,
+        "b24087a1",
+        "C:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h"
+    ],
+    "C:/USERS/SURE/DESKTOP/ABOUT_STATIC/FORTESTSTATIC4.9/TEST-PROJECTS/MAKEFILE/.STATICDATA/PREINCLUDE/RECENT_PREINCLUDE_C.H": [
+        "306227024c018cd03aca28832762ed44_",
+        false,
+        true,
+        "dae7ffb3",
+        "C:/Users/sure/Desktop/About_STATIC/forTestSTATIC4.9/test-projects/makefile/.staticdata/preinclude/recent_preinclude_c.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/SWPRINTF.INL": [
+        "_3a3bf44055497606a286f4377ff0098e",
+        true,
+        false,
+        "c1128d13",
+        "C:/MinGW/x86_64-w64-mingw32/include/swprintf.inl"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/VADEFS.H": [
+        "_0486eca9a953f4fd85bc8eb2f1ef5649",
+        true,
+        false,
+        "ffec9378",
+        "C:/MinGW/x86_64-w64-mingw32/include/vadefs.h"
+    ],
+    "C:/MINGW/X86_64-W64-MINGW32/INCLUDE/_MINGW.H": [
+        "_2d7832bdfd823c0c40293eb2b0a06bd3",
+        true,
+        false,
+        "f0d655c5",
+        "C:/MinGW/x86_64-w64-mingw32/include/_mingw.h"
+    ]
+}

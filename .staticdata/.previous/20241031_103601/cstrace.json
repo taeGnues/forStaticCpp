@@ -1,0 +1,87 @@
+{
+    "5": {
+        "execve": [
+            "C:\\MinGW\\bin\\gcc.exe",
+            [
+                "C:\\MinGW\\bin\\gcc.exe",
+                "-g",
+                "-c",
+                "-o",
+                "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile\\example.o",
+                "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile\\example.c"
+            ],
+            "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile"
+        ],
+        "open": [
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\_mingw.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\_mingw_mac.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\_mingw_off_t.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\_mingw_secapi.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\corecrt.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\corecrt_stdio_config.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\sdks\\_mingw_ddk.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\sec_api\\stdio_s.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\stdio.h",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\swprintf.inl",
+            "C:\\MinGW\\x86_64-w64-mingw32\\include\\vadefs.h",
+            "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile\\example.c"
+        ]
+    },
+    "9": {
+        "execve": [
+            "C:\\MinGW\\bin\\gcc.exe",
+            [
+                "C:\\MinGW\\bin\\gcc.exe",
+                "-g",
+                "-o",
+                "example",
+                "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile\\example.o"
+            ],
+            "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile"
+        ],
+        "open": []
+    },
+    "11": {
+        "execve": [
+            "c:\\mingw\\x86_64-w64-mingw32\\bin\\ld.exe",
+            [
+                "c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe",
+                "--sysroot=E:/msys/mingw64-64",
+                "-m",
+                "i386pep",
+                "-Bdynamic",
+                "-o",
+                "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile\\example.exe",
+                "c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o",
+                "c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o",
+                "-Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0",
+                "-Lc:/mingw/bin/../lib/gcc",
+                "-Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib",
+                "-Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib",
+                "-Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib",
+                "-Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../..",
+                "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile\\example.o",
+                "-lmingw32",
+                "-lgcc",
+                "-lmoldname",
+                "-lmingwex",
+                "-lmsvcrt",
+                "-lkernel32",
+                "-lpthread",
+                "-ladvapi32",
+                "-lshell32",
+                "-luser32",
+                "-lkernel32",
+                "-lmingw32",
+                "-lgcc",
+                "-lmoldname",
+                "-lmingwex",
+                "-lmsvcrt",
+                "-lkernel32",
+                "c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o"
+            ],
+            "C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile"
+        ],
+        "open": []
+    }
+}

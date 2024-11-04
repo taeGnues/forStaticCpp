@@ -1,0 +1,16 @@
+exec-+-11-+-10-+-C:\Users\sure\Desktop\About_STATIC\forTestSTATIC4.9\test-projects\makefile-+-c:\mingw\bin\..\lib\gcc\x86_64-w64-mingw32\12.3.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe-+-c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe --sysroot=E:/msys/mingw64-64 -m i386pep -Bdynamic -o example.exe c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib -Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib -Lc:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../.. example.o -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o 
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\crt2.o
+open-+-11-+-10-+-C:\MinGW\lib\gcc\x86_64-w64-mingw32\12.3.0\crtbegin.o
+open-+-11-+-10-+-C:\Users\sure\Desktop\About_STATIC\forTestSTATIC4.9\test-projects\makefile\example.o
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libmingw32.a
+open-+-11-+-10-+-C:\MinGW\lib\gcc\x86_64-w64-mingw32\12.3.0\libgcc.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libmoldname.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libmingwex.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libmsvcrt.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libkernel32.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libpthread.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libadvapi32.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libshell32.a
+open-+-11-+-10-+-C:\MinGW\x86_64-w64-mingw32\lib\libuser32.a
+open-+-11-+-10-+-C:\MinGW\lib\gcc\x86_64-w64-mingw32\12.3.0\crtend.o
+open-+-11-+-10-+-C:\Users\sure\Desktop\About_STATIC\forTestSTATIC4.9\test-projects\makefile\example.exe

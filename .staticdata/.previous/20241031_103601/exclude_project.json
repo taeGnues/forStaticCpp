@@ -1,0 +1,12 @@
+{
+    "schemaVersion": "1.0",
+    "modules": [
+        {
+            "name": "example",
+            "linkFlags": "\"-g\" \"-o\" \"example\" \"C:\\Users\\sure\\Desktop\\About_STATIC\\forTestSTATIC4.9\\test-projects\\makefile\\example.o\"",
+            "linkType": "execute",
+            "sources": [],
+            "dependencies": []
+        }
+    ]
+}
